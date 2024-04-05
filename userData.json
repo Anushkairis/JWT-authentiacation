@@ -1,0 +1,34 @@
+[
+  {
+    "username": "Alice",
+    "password": "secretpassword"
+  },
+  {
+    "username": "KK",
+    "password": "anotherpassword"
+  },
+  {
+    "username": "Iris",
+    "password": "goodpassword"
+  },
+  {
+    "username": "Abc",
+    "password": "web123"
+  },
+  {
+    "username": "Samm",
+    "password": "key456"
+  },
+  {
+    "username": "D",
+    "password": "land789"
+  },
+  {
+    "username": "Anushka",
+    "password": "lbw234"
+  },
+  {
+    "username": "Tag",
+    "password": "kbc234"
+  }
+]
